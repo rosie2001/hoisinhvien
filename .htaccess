@@ -3,9 +3,9 @@ Options +FollowSymlinks
 #No hotlink
 
 RewriteEngine On
-#RewriteCond %{HTTP_HOST} !^www.hoisinhvien.hou.edu.vn/trienlamanh/index.html$ [NC]
-#RewriteRule ^(.*)$ http://www.hoisinhvien.hou.edu.vn/trienlamanh/$1 [L,R=301]
-#RewriteBase /http://sinhvien5tot.hou.edu.vn/
+RewriteCond %{HTTP_HOST} !^www.hoisinhvien.hou.edu.vn/trienlamanh/index.html$ [NC]
+RewriteRule ^(.*)$ http://www.hoisinhvien.hou.edu.vn/trienlamanh/$1 [L,R=301]
+RewriteBase /http://sinhvien5tot.hou.edu.vn/
 DirectoryIndex index.php
 RewriteRule "index.html" "index.php"
 RewriteRule "truong.html" "truong.php"
