@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30714c59-96e3-43f4-9d0c-07c6e3999e39" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22zFHX7GvUMH0JzcPC9r3oIhWNT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../php-test" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hoisinhvien" />
+      <recent name="C:\xampp\htdocs\hoisinhvien\models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\hoisinhvien\controllers" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30714c59-96e3-43f4-9d0c-07c6e3999e39" name="Default Changelist" comment="" />
+      <created>1640832421190</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640832421190</updated>
+      <workItem from="1640832422237" duration="1508000" />
+      <workItem from="1640877290568" duration="4107000" />
+      <workItem from="1640881552878" duration="40000" />
+      <workItem from="1640881594259" duration="1317000" />
+      <workItem from="1640926257957" duration="1371000" />
+      <workItem from="1640933090703" duration="954000" />
+      <workItem from="1640934451607" duration="10964000" />
+      <workItem from="1640953031289" duration="322000" />
+      <workItem from="1640953755119" duration="991000" />
+      <workItem from="1640955749507" duration="2177000" />
+      <workItem from="1640964065426" duration="2073000" />
+      <workItem from="1641006313202" duration="9292000" />
+      <workItem from="1641020554895" duration="7971000" />
+      <workItem from="1641044082839" duration="1176000" />
+      <workItem from="1641045436705" duration="755000" />
+      <workItem from="1641052086674" duration="667000" />
+      <workItem from="1641129805340" duration="1890000" />
+      <workItem from="1641145307282" duration="1023000" />
+      <workItem from="1641195252267" duration="6044000" />
+      <workItem from="1641224845150" duration="4074000" />
+      <workItem from="1641231492848" duration="542000" />
+      <workItem from="1641311784870" duration="681000" />
+      <workItem from="1641383768438" duration="15178000" />
+      <workItem from="1641400488830" duration="167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="34" key="CommitChangelistDialog2" timestamp="1640952072853">
+      <screen x="0" y="0" width="1739" height="930" />
+    </state>
+    <state x="491" y="34" key="CommitChangelistDialog2/0.0.1739.930@0.0.1739.930" timestamp="1640952072853" />
+    <state x="93" y="93" width="1553" height="745" key="DiffContextDialog" timestamp="1640952034425">
+      <screen x="0" y="0" width="1739" height="930" />
+    </state>
+    <state x="93" y="93" width="1553" height="745" key="DiffContextDialog/0.0.1739.930@0.0.1739.930" timestamp="1640952034425" />
+    <state x="650" y="221" key="FileChooserDialogImpl" timestamp="1641009547699">
+      <screen x="0" y="0" width="1739" height="930" />
+    </state>
+    <state x="650" y="221" key="FileChooserDialogImpl/0.0.1739.930@0.0.1739.930" timestamp="1641009547699" />
+    <state x="684" y="189" key="NewPhpClassDialog" timestamp="1641399695244">
+      <screen x="0" y="0" width="1739" height="930" />
+    </state>
+    <state x="684" y="189" key="NewPhpClassDialog/0.0.1739.930@0.0.1739.930" timestamp="1641399695244" />
+    <state x="706" y="389" key="NewPhpFileDialog" timestamp="1641399833688">
+      <screen x="0" y="0" width="1739" height="930" />
+    </state>
+    <state x="706" y="389" key="NewPhpFileDialog/0.0.1739.930@0.0.1739.930" timestamp="1641399833688" />
+    <state x="582" y="198" width="575" height="592" key="find.popup" timestamp="1641023659714">
+      <screen x="0" y="0" width="1739" height="930" />
+    </state>
+    <state x="582" y="198" width="575" height="592" key="find.popup/0.0.1739.930@0.0.1739.930" timestamp="1641023659714" />
+  </component>
+</project>
